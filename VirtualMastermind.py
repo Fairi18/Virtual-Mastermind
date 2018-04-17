@@ -20,5 +20,8 @@ def main():
 	errorMessage()
 	finalScoreCodebreaker(6)
 
-# test
+# test to use github
+#git add -A OR git add then file name
+#git commit -m ""
+
 main()
